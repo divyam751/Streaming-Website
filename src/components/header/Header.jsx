@@ -8,7 +8,7 @@ import "./style.scss";
 
 import ContentWrapper from "../contentWrapper/ContentWrapper";
 import logo from "../../assets/MovieWood.png";
-import movieWoodLogo from "../../assets/MovieWood-logo.svg";
+import movieWoodLogo from "../../assets/moviewoodlogo.svg";
 
 const Header = () => {
   const [show, setShow] = useState("top");
