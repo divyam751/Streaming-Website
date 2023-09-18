@@ -44,8 +44,6 @@ Moviewood is built using the following technologies:
 - **IMDB API**: An external API source for retrieving movie and TV show data.
 
 
-
-
 ## Feedback
 
 We're excited to have you explore Moviewood and hope it enhances your movie and TV show discovery experience. If you have any questions, suggestions, or feedback, please don't hesitate to reach out. Your input is valuable in making Moviewood even better. Enjoy your journey into the world of entertainment!
