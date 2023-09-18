@@ -33,13 +33,17 @@ Moviewood is deployed on Vercel and can be accessed at [https://dc-moviewood.ver
 ### Video Player
 - **Seamless Video Playback**: Users can watch trailers or video clips within the website, enhancing the overall user experience.
 
-### Tech Stack
+
+## Tech Stack
 
 Moviewood is built using the following technologies:
 
 - **React**: The core frontend framework for building user interfaces.
+- **Redux**: A state management library that simplifies the management of application state and helps in efficiently managing data flow within the application.
 - **SCSS**: A CSS preprocessor for styling, providing enhanced organization and maintainability.
 - **IMDB API**: An external API source for retrieving movie and TV show data.
+
+
 
 
 ## Feedback
