@@ -1,4 +1,4 @@
-# Moviewood
+# Streaming-Website (Moviewood)
 
 Welcome to Moviewood, your go-to destination for all things movies and TV shows! This project is built using React and the IMDB API, offering users a comprehensive platform for discovering and exploring their favorite films and television series. The website is deployed on Vercel and features a wide range of functionality, including searching, sorting, a dynamic and visually appealing hero section, a product page, and a video player.
 
